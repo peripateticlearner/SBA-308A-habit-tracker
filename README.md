@@ -28,12 +28,3 @@ This project was built using:
 2. Type a habit in the input box and click **"Add Habit"**.  
 3. Click the ✅ button to mark it as completed.  
 4. Click 🗑 to remove a habit.  
-
----
-
-## 📂 How to Run the Project
-If you’d like to run this locally:  
-1. Clone this repository:  
-```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/SBA-308A-habit-tracker.git
-cd SBA-308A-habit-tracker
